@@ -701,6 +701,12 @@ section {
     font-size: 48px;
     line-height: 55px;
     color: var(--black);
+    transition: 0.3s;
+
+}
+
+.contact-info>a:hover {
+    color: var(--blue);
 
 }
 
